@@ -1,6 +1,8 @@
 # Banner
 
-TODO: Write a gem description
+Banner is a gem that adds a custom banner to all HTML pages of your Rails app. This can be used for many things including a staging banner, reminders, general information.
+
+![A "Staging server" banner.](http://f.cl.ly/items/380H0d3f0E1X3G3u0d42/Screen%20Shot%202013-01-28%20at%203.31.23%20PM.png)
 
 ## Installation
 

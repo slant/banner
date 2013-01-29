@@ -1,3 +1,3 @@
 module Banner
-  VERSION = "0.0.3.pre"
+  VERSION = "0.0.3.pre1"
 end
